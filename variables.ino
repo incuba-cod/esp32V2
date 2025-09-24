@@ -1,5 +1,5 @@
 /*************************************************
- * EJEMPLO 01: VARIABLES
+ * EJEMPLO 02: VARIABLES
  * Objetivo: Entender qué es una variable y cómo usarla.
  *************************************************/
 
